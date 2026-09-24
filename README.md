@@ -1,4 +1,4 @@
-![Riviera Roleplay](assets/banner-riviera.svg)
+![Riviera Roleplay](assets/banner-final.svg)
 
 # 1. APRESENTAÇÃO
 
