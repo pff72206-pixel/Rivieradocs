@@ -1,3 +1,5 @@
+![Riviera Roleplay](assets/banner-riviera.svg)
+
 # 1. APRESENTAÇÃO
 
 A **Riviera Roleplay** nasceu com um propósito claro: oferecer uma experiência diferenciada dentro do **FiveM**, unindo **Roleplay**, **RPG**, imersão e a construção de **histórias reais e memoráveis** dentro de uma cidade viva.
