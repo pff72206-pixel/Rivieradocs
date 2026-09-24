@@ -1,35 +1,35 @@
 # 1. APRESENTAÇÃO
 
-![Riviera Roleplay](assets/riviera-banner.jpg)
+Bem-vindo à documentação oficial da **Riviera Roleplay**.
 
-A **Riviera Roleplay** é uma comunidade FiveM criada para oferecer uma experiência de **Roleplay e RPG imersiva**, onde decisões, relações e consequências constroem histórias que evoluem junto com a cidade.
+A Riviera nasceu para oferecer uma experiência diferenciada dentro do **FiveM**, unindo **Roleplay, RPG, imersão e histórias reais** em uma cidade viva, organizada e em constante evolução.
 
 {% hint style="info" %}
-**Nossa proposta:** pessoas reais, histórias marcantes e uma cidade em constante evolução.
+**Riviera Roleplay** — Pessoas reais, histórias incríveis, sempre juntos.
 {% endhint %}
 
-## Nossa identidade
+## Nossa proposta
 
-Na Riviera, o objetivo não é apenas acumular dinheiro, veículos ou status. A experiência é construída pela qualidade das cenas, pela coerência dos personagens e pela capacidade de criar situações interessantes para todos os envolvidos.
+Mais do que um servidor, a Riviera é uma comunidade onde cada jogador participa da construção da cidade. Suas escolhas, relações, empregos, empresas, alianças e conflitos ajudam a criar histórias únicas.
 
-A cidade valoriza:
+Nosso objetivo é manter um ambiente onde o **Roleplay de qualidade** esteja acima da busca por vantagem individual.
 
-- **Roleplay de qualidade** — interpretação coerente e desenvolvimento de personagem.
-- **Imersão** — ações devem fazer sentido dentro do universo da cidade.
-- **Respeito** — diferenças dentro do RP nunca justificam ataques pessoais fora dele.
-- **Consequências** — escolhas boas ou ruins fazem parte da história do personagem.
-- **Comunidade** — nenhuma cena existe sozinha; todos contribuem para a experiência.
+### Pilares da Riviera
 
-## Antes de jogar
+| Pilar | O que significa |
+| --- | --- |
+| **Imersão** | Agir de forma coerente com o personagem e com a situação. |
+| **Respeito** | Preservar a experiência dos outros jogadores dentro e fora do RP. |
+| **História** | Criar cenas com começo, desenvolvimento e consequência. |
+| **Equilíbrio** | Evitar abusos, vantagens indevidas e atitudes antijogo. |
+| **Comunidade** | Contribuir para uma cidade saudável e duradoura. |
 
-Ao entrar na cidade, concluir a Allowlist ou permanecer nos ambientes oficiais da Riviera, o jogador declara que leu e aceita este regulamento.
+## Como utilizar este regulamento
 
-É responsabilidade de cada membro acompanhar atualizações, comunicados e regras específicas publicadas pela administração.
+As regras estão divididas por áreas para facilitar a consulta. Antes de entrar na cidade, leia pelo menos as seções de **Termos e Condições**, **Princípios da Comunidade**, **Áreas Seguras** e **Regras Gerais de Roleplay**.
 
 {% hint style="warning" %}
-O desconhecimento de uma regra não elimina a responsabilidade por uma infração. Quando houver dúvida, consulte a documentação ou abra um ticket antes de realizar a ação.
+Ao ingressar na cidade, realizar sua Allowlist ou permanecer nos ambientes oficiais da Riviera, você declara estar ciente das regras e concordar com as diretrizes deste regulamento.
 {% endhint %}
 
-> **Riviera Roleplay — Pessoas reais, histórias incríveis, sempre juntos.**
-
-**FiveM • Roleplay • RPG • Histórias reais • Comunidade**
+**FIVEM • ROLEPLAY • RPG • HISTÓRIAS REAIS • COMUNIDADE**
