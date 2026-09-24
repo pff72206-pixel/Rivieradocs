@@ -1,6 +1,6 @@
-![Riviera Roleplay](assets/banner-final.svg)
-
 # 1. APRESENTAÇÃO
+
+![Riviera Roleplay](assets/riviera-banner.jpg)
 
 A **Riviera Roleplay** é uma comunidade FiveM criada para oferecer uma experiência de **Roleplay e RPG imersiva**, onde decisões, relações e consequências constroem histórias que evoluem junto com a cidade.
 
