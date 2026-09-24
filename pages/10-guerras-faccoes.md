@@ -1,9 +1,38 @@
 # 10. GUERRAS ENTRE FACÇÕES
 
-Guerras precisam possuir motivo claro, desenvolvimento prévio e, quando exigido pela administração, autorização formal.
+Guerras representam conflitos de grande impacto e devem possuir desenvolvimento, motivo e regras claras.
 
-- É proibido iniciar guerra apenas por provocação fora do RP.
-- Participantes devem ser identificados de forma coerente durante as ações.
-- Não use terceiros neutros como escudo para obter vantagem.
-- O encerramento da guerra deve ser respeitado por todas as partes.
-Regras específicas de quantidade de participantes, horários ou locais podem ser publicadas em comunicado próprio.
+## Requisitos
+
+Uma guerra deve surgir de situações construídas em RP, como:
+
+- Quebra de acordos.
+- Disputa de território.
+- Conflito econômico.
+- Traição relevante.
+- Acontecimentos acumulados entre organizações.
+
+## O que não é permitido
+
+- Declarar guerra por motivo OOC.
+- Usar provocação fora do jogo como justificativa.
+- Envolver organizações neutras sem contexto.
+- Forçar civis a participar apenas para aumentar números.
+- Continuar a guerra após encerramento oficial.
+
+## Identificação
+
+Durante ações ligadas à guerra, os envolvidos devem respeitar as regras vigentes sobre roupas, veículos, identificação e quantidade de participantes.
+
+## Encerramento
+
+A guerra pode terminar por:
+
+- Acordo entre lideranças.
+- Rendição.
+- Cumprimento de condição previamente definida.
+- Determinação administrativa quando houver abuso ou quebra grave de regras.
+
+{% hint style="danger" %}
+Uma guerra não suspende as regras gerais da cidade. RDM, VDM, metagaming e outras infrações continuam proibidos.
+{% endhint %}
