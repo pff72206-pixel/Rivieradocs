@@ -1,45 +1,63 @@
 # Summary
 
-* [Início](README.md)
-* **REGULAMENTO OFICIAL — RIVIERA ROLEPLAY**
-  * [1. Apresentação](pages/01-apresentacao.md)
-  * [2. Termos E Condições](pages/02-termos-condicoes.md)
-  * [3. Princípios Da Comunidade](pages/03-principios.md)
-  * [4. Áreas Seguras](pages/04-areas-seguras.md)
-  * [5. Regras Gerais De Roleplay](pages/05-regras-gerais-rp.md)
-  * [6. Criação E Desenvolvimento De Personagem](pages/06-personagem.md)
-* **POLÍTICA DE DOAÇÕES E LOJA VIP**
-  * [7. Disposições Gerais — Doações E Benefícios](pages/07-doacoes.md)
-* **DENÚNCIAS E SCREEN SHARE**
-  * [8. Denúncias E Screen Share](pages/08-denuncias.md)
-  * [28. Procedimento De Screen Share](pages/28-screenshare.md)
-* **REGULAMENTO DAS ORGANIZAÇÕES ILEGAIS**
-  * [9. Organizações Ilegais](pages/09-organizacoes.md)
-  * [10. Guerras Entre Facções](pages/10-guerras-faccoes.md)
-  * [11. Regras Complementares Das Organizações](pages/11-regras-orgs.md)
-* **POLÍCIA RIVIERA**
-  * [12. Polícia Riviera](pages/12-policia.md)
-  * [13. Pacificações](pages/13-pacificacoes.md)
-  * [14. Ronda Ostensiva (R.O.)](pages/14-ronda-ostensiva.md)
-  * [15. Abordagens E Procedimentos](pages/15-abordagens.md)
-  * [16. Uso Progressivo Da Força](pages/16-uso-forca.md)
-  * [17. Perseguições](pages/17-perseguicoes.md)
-  * [18. Perímetros E Interferências](pages/18-perimetros.md)
-  * [19. Corrupção Policial](pages/19-corrupcao-policial.md)
-  * [20. Policiais À Paisana](pages/20-paisana.md)
-  * [21. Prisões E Revistas](pages/21-prisoes-revistas.md)
-  * [22. Responsabilidade Dos Comandos](pages/22-comandos.md)
-* **AÇÕES E PERÍMETROS**
-  * [23. Ações E Perímetros](pages/23-acoes.md)
-  * [24. Sequestros](pages/24-sequestros.md)
-  * [25. Ações Fechadas](pages/25-acoes-fechadas.md)
-  * [26. Ações De Rua](pages/26-acoes-rua.md)
-  * [27. Finalização De Ações (Gg)](pages/27-gg.md)
-* **CENTRO MÉDICO RIVIERA**
-  * [29. Centro Médico Riviera](pages/29-hospital.md)
-* **SISTEMA DE PUNIÇÕES**
-  * [30. Sistema De Punições](pages/30-punicoes.md)
-* **CITIZENS E MODIFICAÇÕES GRÁFICAS**
-  * [31. Citizens E Modificações Gráficas](pages/31-modificacoes.md)
-* **DISPOSIÇÃO FINAL**
-  * [32. Disposições Finais Do Regulamento](pages/32-finais.md)
+## REGULAMENTO OFICIAL — RIVIERA ROLEPLAY
+
+* [1. APRESENTAÇÃO](README.md)
+* [2. TERMOS E CONDIÇÕES](pages/02-termos-condicoes.md)
+* [3. PRINCÍPIOS DA COMUNIDADE](pages/03-principios.md)
+* [4. ÁREAS SEGURAS](pages/04-areas-seguras.md)
+* [5. REGRAS GERAIS DE ROLEPLAY](pages/05-regras-gerais-rp.md)
+* [6. CRIAÇÃO E DESENVOLVIMENTO DE PERSONAGEM](pages/06-personagem.md)
+
+## POLÍTICA DE DOAÇÕES E LOJA VIP
+
+* [7. DISPOSIÇÕES GERAIS — DOAÇÕES E BENEFÍCIOS](pages/07-doacoes.md)
+
+## DENÚNCIAS E SCREEN SHARE
+
+* [8. DENÚNCIAS](pages/08-denuncias.md)
+* [28. PROCEDIMENTO DE SCREEN SHARE](pages/28-screenshare.md)
+
+## REGULAMENTO DAS ORGANIZAÇÕES ILEGAIS E CÚPULA
+
+* [9. ORGANIZAÇÕES ILEGAIS](pages/09-organizacoes.md)
+* [10. GUERRAS ENTRE FACÇÕES](pages/10-guerras-faccoes.md)
+* [11. REGRAS COMPLEMENTARES DAS ORGANIZAÇÕES](pages/11-regras-orgs.md)
+
+## POLÍCIA RIVIERA
+
+* [12. POLÍCIA RIVIERA](pages/12-policia.md)
+* [13. PACIFICAÇÕES](pages/13-pacificacoes.md)
+* [14. RONDA OSTENSIVA (R.O.)](pages/14-ronda-ostensiva.md)
+* [15. ABORDAGENS E PROCEDIMENTOS](pages/15-abordagens.md)
+* [16. USO PROGRESSIVO DA FORÇA](pages/16-uso-forca.md)
+* [17. PERSEGUIÇÕES](pages/17-perseguicoes.md)
+* [18. PERÍMETROS E INTERFERÊNCIAS](pages/18-perimetros.md)
+* [19. CORRUPÇÃO POLICIAL](pages/19-corrupcao-policial.md)
+* [20. POLICIAIS À PAISANA](pages/20-paisana.md)
+* [21. PRISÕES E REVISTAS](pages/21-prisoes-revistas.md)
+* [22. RESPONSABILIDADE DOS COMANDOS](pages/22-comandos.md)
+
+## AÇÕES E PERÍMETROS
+
+* [23. AÇÕES E PERÍMETROS](pages/23-acoes.md)
+* [24. SEQUESTROS](pages/24-sequestros.md)
+* [25. AÇÕES FECHADAS](pages/25-acoes-fechadas.md)
+* [26. AÇÕES DE RUA](pages/26-acoes-rua.md)
+* [27. FINALIZAÇÃO DE AÇÕES (GG)](pages/27-gg.md)
+
+## CENTRO MÉDICO RIVIERA
+
+* [29. CENTRO MÉDICO RIVIERA](pages/29-hospital.md)
+
+## SISTEMA DE PUNIÇÕES
+
+* [30. SISTEMA DE PUNIÇÕES](pages/30-punicoes.md)
+
+## CITIZENS E MODIFICAÇÕES GRÁFICAS
+
+* [31. CITIZENS E MODIFICAÇÕES GRÁFICAS](pages/31-modificacoes.md)
+
+## DISPOSIÇÃO FINAL
+
+* [32. DISPOSIÇÕES FINAIS DO REGULAMENTO](pages/32-finais.md)
