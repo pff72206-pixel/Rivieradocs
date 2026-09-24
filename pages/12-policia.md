@@ -1,8 +1,41 @@
 # 12. POLÍCIA RIVIERA
 
-A Polícia Riviera existe para promover segurança, investigação e geração de Roleplay. A função policial não deve ser tratada como competição por prisões ou apreensões.
+A Polícia Riviera tem como função gerar segurança, investigação e Roleplay de qualidade para cidadãos, criminosos e membros da própria corporação.
 
-- Abordagens devem ser justificadas e conduzidas com comunicação clara.
-- Uso de força deve ser proporcional à ameaça apresentada.
-- Abuso de autoridade, humilhação e perseguição pessoal são proibidos.
-- Informações restritas da corporação devem permanecer em RP.
+{% hint style="info" %}
+O objetivo da polícia não é “ganhar” toda ocorrência. O trabalho policial deve criar cenas equilibradas, profissionais e coerentes.
+{% endhint %}
+
+## Conduta profissional
+
+O policial deve:
+
+- Respeitar cidadãos e suspeitos.
+- Seguir a hierarquia da corporação.
+- Utilizar comunicação clara.
+- Evitar abuso de autoridade.
+- Preservar provas e registros quando necessário.
+- Priorizar segurança de terceiros.
+
+## Abordagens
+
+Toda abordagem deve possuir motivo justificável dentro do RP.
+
+Exemplos:
+
+- Infração de trânsito observada.
+- Veículo compatível com alerta recente.
+- Suspeita fundada após comportamento relevante.
+- Mandado ou investigação válida.
+
+## Uso de equipamentos
+
+Armas, viaturas, sistemas de informação e itens policiais são ferramentas de serviço. Seu uso deve ser proporcional e compatível com a ocorrência.
+
+## Informações internas
+
+Dados restritos da polícia não devem ser compartilhados externamente sem contexto autorizado.
+
+## Responsabilidade
+
+Condutas graves podem gerar punição administrativa da cidade e também medidas disciplinares dentro da corporação.
