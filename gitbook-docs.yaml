@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+
+site:
+  title: Riviera Docs
+  structure:
+    - type: space
+      key: riviera-regulamento
+      title: REGULAMENTO OFICIAL — RIVIERA ROLEPLAY
+      path: regulamento
+      default: true
+      content:
+        directory: ./
