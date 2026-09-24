@@ -1,5 +1,7 @@
 # 1. APRESENTAÇÃO
 
+![Riviera Roleplay](https://cdn.openart.ai/openart-uploads/production/attachment-transfers/5d7233ade591605b65b41ef4c498540ac9aca1c3f564755b25b65b9487e51be5.jpg)
+
 Bem-vindo à documentação oficial da **Riviera Roleplay**.
 
 A Riviera nasceu para oferecer uma experiência diferenciada dentro do **FiveM**, unindo **Roleplay, RPG, imersão e histórias reais** em uma cidade viva, organizada e em constante evolução.
