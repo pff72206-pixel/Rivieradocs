@@ -1,40 +1,34 @@
 # 3. PRINCÍPIOS DA COMUNIDADE
 
-A Riviera é construída sobre quatro princípios: **respeito, coerência, responsabilidade e colaboração**.
+A qualidade da Riviera depende da forma como cada membro se comporta. O Roleplay deve ser construído em conjunto, não tratado como uma competição para descobrir quem “vence” uma cena.
 
-## Respeito
+## Princípios fundamentais
 
-Conflitos entre personagens fazem parte do Roleplay. Ataques pessoais contra jogadores, porém, não fazem.
+### Respeito
+Trate jogadores, Staff e equipes com educação. Discussões de personagem não justificam ataques pessoais fora do RP.
 
-São incompatíveis com a comunidade:
+### Coerência
+As atitudes do personagem devem fazer sentido com a situação, o ambiente, sua história e os riscos envolvidos.
 
-- Racismo, xenofobia, homofobia ou discriminação.
-- Assédio, perseguição ou intimidação fora do RP.
-- Exposição de dados pessoais.
-- Humilhação deliberada com objetivo de constranger o jogador.
-- Provocações repetidas que ultrapassem o contexto da cena.
+### Responsabilidade
+Toda decisão pode gerar consequências. Ser preso, perder uma disputa ou sofrer uma derrota faz parte da construção narrativa.
 
-## Coerência
+### Colaboração
+Uma boa cena cria oportunidade de interpretação para todos os envolvidos.
 
-O personagem deve agir de maneira compatível com sua história, contexto e situação atual. Mudanças bruscas de comportamento precisam ter desenvolvimento narrativo.
-
-## Responsabilidade
-
-Toda escolha pode gerar consequências. Perder uma ação, ser preso, perder itens ou sofrer repercussões faz parte da experiência.
-
-{% hint style="warning" %}
-Tentar evitar toda consequência por meio de desconexão, metagaming ou pressão fora do jogo prejudica o RP e pode gerar punição.
+{% hint style="success" %}
+Antes de realizar uma ação, pense: **isso cria uma cena melhor ou apenas tenta me dar vantagem?**
 {% endhint %}
 
-## Colaboração
+## Condutas incompatíveis com a comunidade
 
-Uma boa cena não depende apenas de quem “vence”. Ela depende da oportunidade de todos participarem.
+- Assédio, perseguição pessoal ou intimidação fora do RP.
+- Discriminação ou discurso de ódio.
+- Provocações repetitivas com objetivo de gerar confusão.
+- Exposição indevida de informações pessoais.
+- Incentivo a ataques, invasões ou prejudicar serviços da comunidade.
+- Discussões administrativas em canais inadequados.
 
-Antes de agir, considere:
+## Conflitos
 
-- A outra pessoa terá chance de reagir?
-- Minha ação faz sentido no contexto?
-- Estou criando uma história ou apenas buscando vantagem?
-- O resultado mantém a cena interessante?
-
-> **Na Riviera, qualidade de RP vale mais do que vitória em uma ação.**
+Conflitos dentro do RP devem permanecer **dentro do RP**. Caso uma situação ultrapasse esse limite, utilize os canais de denúncia ou atendimento.
