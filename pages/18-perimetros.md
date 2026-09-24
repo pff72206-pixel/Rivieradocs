@@ -1,8 +1,35 @@
 # 18. PERÍMETROS E INTERFERÊNCIAS
 
-Perímetros policiais delimitam áreas de operação. Terceiros devem evitar interferir sem motivo de RP plausível.
+Perímetros existem para preservar a segurança e permitir que operações sejam conduzidas sem interferência artificial de terceiros.
 
-- Civis podem ser orientados a se afastar por segurança.
-- Entrar repetidamente em área isolada apenas para provocar a polícia é proibido.
-- Imprensa, médicos e serviços autorizados seguem regras próprias de acesso.
-- Organizações não podem usar civis neutros para quebrar perímetros artificialmente.
+## Área isolada
+
+Quando um local estiver claramente sob operação policial, civis podem ser orientados a manter distância.
+
+A polícia deve evitar ampliar o perímetro além do necessário.
+
+## Interferência de terceiros
+
+Não é permitido entrar repetidamente em uma área isolada apenas para:
+
+- Provocar policiais.
+- Coletar itens de uma ação.
+- Resgatar desconhecidos sem contexto.
+- Atrapalhar negociação.
+- Gerar perseguição paralela.
+
+## Participação legítima
+
+Terceiros podem se envolver quando houver motivo real de RP, desde que isso não quebre regras específicas da ação.
+
+## Serviços autorizados
+
+Médicos, imprensa ou outros serviços podem possuir protocolos próprios para entrada em perímetro.
+
+{% hint style="info" %}
+O simples fato de conhecer um participante não transforma automaticamente um terceiro em parte da ação.
+{% endhint %}
+
+## Final do perímetro
+
+Quando a ocorrência terminar, a área deve ser liberada assim que não houver mais necessidade operacional.
