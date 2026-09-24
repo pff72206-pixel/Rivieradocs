@@ -1,35 +1,35 @@
 # 2. TERMOS E CONDIÇÕES
 
-Este regulamento estabelece as condições gerais de participação na **Riviera Roleplay** e complementa comunicados, regras específicas de organizações, departamentos e eventos oficiais.
+Este regulamento reúne as diretrizes oficiais da **Riviera Roleplay** e se aplica aos ambientes vinculados à comunidade, incluindo cidade, Discord e demais canais oficiais.
 
 {% hint style="info" %}
-Ao utilizar os serviços da Riviera, o jogador concorda em respeitar as regras vigentes e as decisões administrativas tomadas para preservar a integridade da comunidade.
+O objetivo das regras é preservar a organização, a segurança da comunidade e a qualidade do Roleplay.
 {% endhint %}
 
-## Responsabilidade do jogador
+## Aceitação das regras
 
-Cada jogador é responsável por:
+Ao participar da Riviera, o jogador concorda que:
 
-- Manter-se informado sobre atualizações do regulamento.
-- Utilizar somente meios oficiais para suporte, denúncias e recursos.
-- Proteger sua conta e não compartilhar acessos.
-- Reportar bugs, exploits ou comportamentos suspeitos.
-- Cooperar com procedimentos administrativos quando solicitado.
+- Deve manter-se atualizado sobre alterações no regulamento.
+- O desconhecimento de uma regra não elimina a responsabilidade por uma infração.
+- Decisões administrativas devem ser discutidas somente pelos canais oficiais.
+- Situações não previstas poderão ser avaliadas pela Staff com base em contexto, impacto e boa-fé.
 
-## Atualizações do regulamento
+## Responsabilidade da conta
 
-As regras podem ser alteradas para acompanhar novos sistemas, corrigir brechas ou melhorar o equilíbrio da cidade. Mudanças relevantes serão comunicadas pelos canais oficiais.
+- A conta e os personagens são de responsabilidade do titular.
+- Não compartilhe credenciais, códigos de autenticação ou acesso ao Discord.
+- Benefícios, itens ou acessos não podem ser negociados por meios não autorizados.
+- Tentativas de burlar punições com contas alternativas poderão gerar novas medidas administrativas.
 
-A administração poderá analisar situações não previstas expressamente quando houver risco claro ao servidor, à economia, ao Roleplay ou à segurança da comunidade.
+## Bugs e falhas
 
-## Boa-fé
-
-Interpretar uma regra de forma propositalmente literal para explorar uma brecha não torna a conduta permitida.
+Encontrou uma falha que gera vantagem? **Pare de utilizá-la e reporte imediatamente.**
 
 {% hint style="danger" %}
-Abuso de falhas, manipulação de sistemas, fraude, trapaça ou tentativa de obter vantagem indevida poderá gerar punição imediata, independentemente de a situação estar descrita palavra por palavra neste documento.
+Explorar bugs, duplicações, falhas de economia ou qualquer vulnerabilidade para benefício próprio ou de terceiros é proibido.
 {% endhint %}
 
-## Atendimento e recursos
+## Atualizações
 
-Dúvidas, denúncias e recursos devem ser tratados nos canais designados. Discussões públicas sobre punições ou casos em análise podem ser encerradas pela equipe para preservar organização e privacidade.
+A administração pode atualizar regras e procedimentos para acompanhar a evolução da cidade. Alterações relevantes deverão ser divulgadas pelos canais oficiais.
