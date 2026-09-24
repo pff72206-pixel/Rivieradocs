@@ -1,12 +1,56 @@
 # 5. REGRAS GERAIS DE ROLEPLAY
 
-Todo jogador deve interpretar seu personagem e separar informações de fora da cidade das informações obtidas em RP.
+As regras gerais de Roleplay existem para garantir cenas coerentes, equilibradas e divertidas para todos os envolvidos.
 
-## Condutas proibidas
-- RDM: agredir ou matar sem motivo de Roleplay.
-- VDM: usar veículo como arma sem contexto coerente.
-- Metagaming: usar informação obtida fora do RP para obter vantagem dentro dele.
-- Power Gaming: forçar ações impossíveis, irreais ou sem chance razoável de reação.
-- Combat Logging: desconectar para escapar de ação, abordagem, prisão ou consequência.
-- Fail RP: quebrar deliberadamente a lógica da cena ou ignorar consequências óbvias.
-Valorize a vida do seu personagem. Situações de alto risco devem ser tratadas com cautela e coerência.
+{% hint style="info" %}
+O foco da Riviera não é “ganhar” uma situação. É construir uma história convincente e permitir que todos tenham espaço para interpretar.
+{% endhint %}
+
+## Valorize a vida
+
+Seu personagem deve reagir ao perigo de maneira plausível. Estar armado não significa ignorar risco evidente.
+
+Exemplos de valorização da vida:
+
+- Cooperar quando estiver claramente em desvantagem.
+- Evitar atitudes suicidas sem contexto narrativo.
+- Não iniciar confrontos impossíveis apenas para “não perder”.
+- Considerar ferimentos, medo e consequências.
+
+## RDM — Random Deathmatch
+
+É proibido agredir ou matar outro jogador sem motivo de RP válido.
+
+Um conflito precisa possuir contexto, desenvolvimento e razão compreensível dentro da história.
+
+## VDM — Vehicle Deathmatch
+
+É proibido utilizar um veículo como arma de forma deliberada e sem contexto.
+
+Acidentes podem acontecer, mas atropelamentos intencionais para finalizar jogadores ou obter vantagem são proibidos.
+
+## Metagaming
+
+Informações obtidas fora do Roleplay não podem ser usadas dentro da cidade.
+
+Exemplos:
+
+- Usar live, Discord ou mensagem privada para localizar alguém.
+- Reconhecer voz ou identidade sem informação obtida em RP.
+- Compartilhar posição de ação por chamada externa.
+
+## Power Gaming
+
+É proibido forçar ações irreais ou que removam completamente a possibilidade de reação do outro jogador.
+
+## Combat Logging
+
+Desconectar para evitar prisão, perda de itens, abordagem, morte ou qualquer consequência de uma ação é proibido.
+
+{% hint style="warning" %}
+Se ocorrer queda de conexão real durante uma ação, retorne assim que possível e informe os envolvidos ou a Staff.
+{% endhint %}
+
+## Fail RP
+
+Qualquer conduta que quebre deliberadamente a lógica da cena, ignore consequências óbvias ou transforme uma situação séria em trolling pode ser considerada Fail RP.
