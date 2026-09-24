@@ -1,9 +1,35 @@
 # 2. TERMOS E CONDIÇÕES
 
-Ao entrar no Discord, concluir a Allowlist ou conectar-se à cidade, o jogador declara que leu e aceita este regulamento. As regras podem ser atualizadas pela administração quando necessário para preservar o equilíbrio e a qualidade do Roleplay.
+Este regulamento estabelece as condições gerais de participação na **Riviera Roleplay** e complementa comunicados, regras específicas de organizações, departamentos e eventos oficiais.
 
-- O desconhecimento das regras não elimina a responsabilidade por uma infração.
-- Decisões administrativas devem ser tratadas pelos canais oficiais, com respeito e provas quando aplicável.
-- Contas, personagens e benefícios são pessoais e não devem ser negociados de forma irregular.
-- Falhas, exploits ou vantagens indevidas devem ser reportados imediatamente.
-A equipe poderá agir em situações não previstas expressamente quando houver risco claro à comunidade ou à integridade do servidor.
+{% hint style="info" %}
+Ao utilizar os serviços da Riviera, o jogador concorda em respeitar as regras vigentes e as decisões administrativas tomadas para preservar a integridade da comunidade.
+{% endhint %}
+
+## Responsabilidade do jogador
+
+Cada jogador é responsável por:
+
+- Manter-se informado sobre atualizações do regulamento.
+- Utilizar somente meios oficiais para suporte, denúncias e recursos.
+- Proteger sua conta e não compartilhar acessos.
+- Reportar bugs, exploits ou comportamentos suspeitos.
+- Cooperar com procedimentos administrativos quando solicitado.
+
+## Atualizações do regulamento
+
+As regras podem ser alteradas para acompanhar novos sistemas, corrigir brechas ou melhorar o equilíbrio da cidade. Mudanças relevantes serão comunicadas pelos canais oficiais.
+
+A administração poderá analisar situações não previstas expressamente quando houver risco claro ao servidor, à economia, ao Roleplay ou à segurança da comunidade.
+
+## Boa-fé
+
+Interpretar uma regra de forma propositalmente literal para explorar uma brecha não torna a conduta permitida.
+
+{% hint style="danger" %}
+Abuso de falhas, manipulação de sistemas, fraude, trapaça ou tentativa de obter vantagem indevida poderá gerar punição imediata, independentemente de a situação estar descrita palavra por palavra neste documento.
+{% endhint %}
+
+## Atendimento e recursos
+
+Dúvidas, denúncias e recursos devem ser tratados nos canais designados. Discussões públicas sobre punições ou casos em análise podem ser encerradas pela equipe para preservar organização e privacidade.
